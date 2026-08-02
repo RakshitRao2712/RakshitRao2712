@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Rakshit! 👋
+
+```yaml
+role: Full Stack & Cloud Developer
+
+specialties:
+  Full Stack:
+    Frontend: React.js, Next.js, JavaScript, Tailwind CSS
+    Backend: Java (Spring Boot), Python, Node.js
+    Database: PostgreSQL, MongoDB
+    DevOps: Docker, Terraform, AWS, CI/CD
 
 <!--
 **RakshitRao2712/RakshitRao2712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
